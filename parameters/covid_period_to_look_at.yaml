@@ -1,0 +1,2 @@
+reservations_submissions: {'period_to_look_at_stopped_1':'last_3_months', 'period_to_look_at_stopped_2':'last_month'}
+private_parties_submissions: {'period_to_look_at_stopped_1':'last_7_months'}

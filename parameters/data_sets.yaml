@@ -1,0 +1,11 @@
+## data set parameters ##
+
+ALL_spots_with_CB_cancellation_requested: {spots_set: 'ALL', with_wo_CB: 'with_CB', event_date_type: 'cancellation_requested'}
+ALL_spots_wo_CB_cancellation_requested: {spots_set: 'ALL', with_wo_CB: 'wo_CB', event_date_type: 'cancellation_requested'}
+ALL_spots_with_CB_cancellation_confirmed: {spots_set: 'ALL', with_wo_CB: 'with_CB', event_date_type: 'cancellation_confirmed'}
+ALL_spots_wo_CB_cancellation_confirmed: {spots_set: 'ALL', with_wo_CB: 'wo_CB', event_date_type: 'cancellation_confirmed'}
+
+CAN_CANCEL_spots_with_CB_cancellation_requested: {spots_set: 'CAN_CANCEL', with_wo_CB: 'with_CB', event_date_type: 'cancellation_requested'}
+CAN_CANCEL_spots_wo_CB_cancellation_requested: {spots_set: 'CAN_CANCEL', with_wo_CB: 'wo_CB', event_date_type: 'cancellation_requested'}
+CAN_CANCEL_spots_with_CB_cancellation_confirmed: {spots_set: 'CAN_CANCEL', with_wo_CB: 'with_CB', event_date_type: 'cancellation_confirmed'}
+CAN_CANCEL_spots_wo_CB_cancellation_confirmed: {spots_set: 'CAN_CANCEL', with_wo_CB: 'wo_CB', event_date_type: 'cancellation_confirmed'}

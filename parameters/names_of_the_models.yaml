@@ -1,0 +1,5 @@
+## names for each corresponding model number ##
+model_0: 'all variables'
+model_1: 'posts on facebook and visited admin variables'
+model_2: 'posts on facebook and visited (specific page in admin) page variables'
+model_3: 'posts on facebook, added/edited something in admin, downloaded regular, QR code flyers variables'

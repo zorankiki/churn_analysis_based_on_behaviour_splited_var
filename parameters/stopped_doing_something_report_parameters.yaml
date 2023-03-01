@@ -1,0 +1,12 @@
+## parameters for the stopped doing something case of the Cox models based on reports reports ##
+date_of_analysis: '2023-02-01'
+churn_based_on_behaviour_dir: 'churn_analysis_based_on_behaviour/'
+hs_list_filename: 'hubspot-crm-exports-starting_list_for_churn-2023-02-01.csv'
+prediction_months: ['2021-11-01', '2021-12-01', '2022-01-01', '2022-02-01', '2022-03-01', '2022-04-01', '2022-05-01', '2022-06-01', '2022-07-01', '2022-08-01', '2022-09-01', '2022-10-01', '2022-11-01', '2022-12-01', '2023-01-01']
+penalizer: 0.001
+model_type: 'stopped_doing_something'
+coefficient_limit_for_numerical_vars: 0.01
+coefficient_limit_for_cat_vars: 0.2
+p_limit: 0.2
+additional_higher_p_limit: 0.5
+additional_lower_p_limit: 0.2

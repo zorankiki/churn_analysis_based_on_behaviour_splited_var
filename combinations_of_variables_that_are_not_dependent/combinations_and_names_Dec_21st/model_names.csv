@@ -1,0 +1,35 @@
+model_number,model_name
+0,all_variables
+1,posts_on_facebook
+2,changed_picture_or_text
+3,posts_disliked
+4,posts_liked
+5,posts_seen
+6,flyer_posts_on_facebook
+7,preview_page_views
+8,number_of_requests_for_new_text_fragment
+9,"'catering_submissions', 'consumer_job_listing_inquiries', 'online_orders', 'private_parties_submissions', 'reservations_submissions'"
+10,qr_code_menu_scans
+11,other_non_contactless_menu_qr_flyer_scans
+12,clicked_emails
+13,opened_rewarding_stats_emails
+14,tickets
+15,added_events_manually_edited_events
+16,added_food_edited_food
+17,added_specials_edited_specials
+18,emails_sent_manually_scheduled_emails_sent
+19,visited_admin
+20,visited_events_page
+21,visited_food_page
+22,visited_inquiries_pages
+23,visited_special_page
+24,visited_stats_page
+25,downloaded_regular_flyers
+26,downloaded_qrcode_flyers
+27,visited_regular_flyers_page
+28,visited_qrcode_flyers_page
+29,"'Annual Commitment with 2 semi-annual payments', 'Annual Prepay', 'Instagram.Add.on', 'Monthly', 'SpotHopper_site_not_live_yet', 'Website.Views.last.month.total.log2', 'bday_club_downloads', 'feedback_submissions', 'incentive_downloads', 'is_corona', 'is_platform_only', 'is_premium_plus', 'their_own_website_dontKnow', 'their_own_website_no'"
+30,Opted.out.of.facebook
+31,Fb.page.likes.analysis.avg.log2
+32,New.email.subscriber.signups.last.month.div10
+33,New.email.subscribers.allinclusive.last.month.div10
